@@ -1,0 +1,32 @@
+.steps{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.stepDesc{
+    width: 350px;
+    margin: -700px 0px 0 30px;
+    box-shadow: 0 2px 5px #aaa;
+    background-color: #fff;
+    height: 350px;
+    overflow: hidden;
+    border-radius: 8px;
+
+}
+.stepImg{
+    width: 50%;
+    margin: 30px 0 0 80px;
+    border-radius: 8px;
+}
+.stepHeading{
+    text-align: left;
+    padding: 10px 10px 0 40px;
+}
+.stepDesciption{
+    text-align: left;
+    padding: 10px 10px 0 40px;
+}
+.pathead{
+    margin: -333px 0 10px 250px;
+}
